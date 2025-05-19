@@ -1,0 +1,4 @@
+venv/
+tiny-lawbot-model/
+__pycache__/
+*.pyc
